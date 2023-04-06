@@ -19,3 +19,24 @@ margin-right: 20px;}
 li a {font-size: 18px;
 color: lightgrey;}	
 
+.home{color: black;}
+.container {width: 1170px;
+ margin: 0 auto;}
+h1{font-size: 30px;
+color: black;
+margin-top: 100px;
+margin-bottom: 30px;}
+.wrapper{ margin-right: 20px;
+	display: inline-block;
+	position: relative;
+}
+.div1{display: inline-block;}
+h2{position: absolute; top: 50%;
+	left: 50%;
+	transform: translate(-60%,-60%);
+color: white;}
+p{vertical-align: middle; position: 
+ absolute;}
+ article {position: absolute;
+ 	margin-top: 40px;}
+
