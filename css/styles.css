@@ -56,11 +56,20 @@ height: 200px;
 background-color: #A6ADB4;
 margin-top: 37px;}
 footer p {margin-top: 50px;
-margin-left: 152px;
+margin-left: 20px;
 color: white;
-display: inline-block;}
-footer nav{display: inline-block;}
-footer li {display: inline-block;} 
+display: inline-block;
+vertical-align: top;}
+footer ul{vertical-align: top;
+margin-top: 30px;
+margin-right: 20px;
+margin-bottom: 0px;
+margin-left: 100px;
+color: #CBD0D3}
+.last{color: #CBD0D3;
+margin-left: 40px;}
+
+ 
 
 
 
