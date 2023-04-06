@@ -1,0 +1,21 @@
+header {padding: 20px;
+	background-color: whitesmoke;
+	position: fixed;
+	top: 0;
+	width: 100%;
+	z-index: 100}
+	.logo{font-size: 30px;
+		color: red;
+		display: inline-block;
+		vertical-align: middle;
+		margin-right: 80px;
+		margin-left: 0px;}
+nav{vertical-align: middle;
+display: inline-block;}	
+
+li{display: inline-block;
+vertical-align: middle;
+margin-right: 20px;}
+li a {font-size: 18px;
+color: lightgrey;}	
+
